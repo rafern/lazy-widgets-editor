@@ -1,0 +1,14 @@
+{
+  "name": "lazy-widgets-editor",
+  "version": "0.1.0",
+  "description": "WYSIWYG editor for lazy-widgets XML files",
+  "main": "index.js",
+  "keywords": [
+    "ui",
+    "typescript",
+    "canvas",
+    "editor"
+  ],
+  "author": "rafern",
+  "license": "MIT"
+}
